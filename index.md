@@ -1,5 +1,5 @@
 # Разработанные проекты
-## [TicTacToe3D](https://multiname.github.io/GameDev-Portfolio/projects/TicTacToe3D.md)
+## [TicTacToe3D](https://multiname.github.io/GameDev-Portfolio/projects/TicTacToe3D.html)
 > Крестики-нолики с возможностью ставить фигуры друг на друга
 
 <img src="static/TicTacToe3D-preview.gif" style="width:60%;">
