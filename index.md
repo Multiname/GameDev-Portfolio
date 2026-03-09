@@ -4,18 +4,26 @@
 
 <img src="static/TicTacToe3D-preview.gif" style="width:60%;">
 
+<br/>
+
 ## SpaceBattleAR
 > Пошаговая коллекционная карточная AR игра с полем из клеток
+
+<br/>
 
 ## ColorTower
 > Tower defense, где нужно объединять башни
 
 <img src="static/ColorTower-preview.gif" style="width:60%;">
 
+<br/>
+
 ## RunOrGun *(в разработке)*
 > Казуальная игра на двоих: стой, чтобы стрелять, - бегай, чтобы уклоняться
 
 <img src="static/RunOrGun-preview.gif" style="width:60%;">
+
+<br/>
 
 ## OneButtonQuest
 > Платформер-головоломка, где можно нажимать лишь одну кнопку
