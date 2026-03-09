@@ -25,7 +25,7 @@
 
 <br/>
 
-## OneButtonQuest
+## [OneButtonQuest](https://multiname.github.io/GameDev-Portfolio/projects/OneButtonQuest.html)
 > Платформер-головоломка, где можно нажимать лишь одну кнопку
 
 <img src="static/OneButtonQuest-preview.gif" style="width:60%;">
