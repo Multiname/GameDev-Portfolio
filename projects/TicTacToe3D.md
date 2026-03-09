@@ -3,7 +3,7 @@
 > - **Жанр:** казуальная игра на двоих
 > - **Дата создания:** декабрь 2025
 
-<p align="center"><a href="https://cluttermultiname.itch.io/tictactoe3d" style="font-size: 200%;">Itch.io</a></p>
+<p align="center"><a href="https://cluttermultiname.itch.io/tictactoe3d" style="font-size: 200%;">Itch.io (web и ПК версии)</a></p>
 <p align="center"><a href="https://www.youtube.com/watch?v=gk9fO1pVdS8" style="font-size: 200%;">Демонстрационное видео</a></p>
 <p align="center"><a href="https://github.com/Multiname/TicTacToe3D" style="font-size: 200%;">Репозиторий</a></p>
 
