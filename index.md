@@ -6,8 +6,10 @@
 
 <br/>
 
-## SpaceBattleAR
-> Пошаговая коллекционная карточная AR игра с полем из клеток
+## [SpaceBattleAR](https://multiname.github.io/GameDev-Portfolio/projects/SpaceBattleAR.html)
+> Коллекционная карточная AR игра с полем из клеток
+
+<img src="static/SpaceBattleAR-preview.gif" style="width:25%;">
 
 <br/>
 
