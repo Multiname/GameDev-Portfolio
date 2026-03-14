@@ -20,14 +20,14 @@
 
 <br/>
 
-## [RunOrGun *(в разработке)*](https://multiname.github.io/GameDev-Portfolio/projects/ColorTower.html)
+## [RunOrGun *(в разработке)*](https://multiname.github.io/GameDev-Portfolio/projects/RunOrGun.html)
 > Казуальная игра на двоих: стой, чтобы стрелять, - бегай, чтобы уклоняться
 
 <img src="static/RunOrGun-preview.gif" style="width:60%;">
 
 <br/>
 
-## [OneButtonQuest](https://multiname.github.io/GameDev-Portfolio/projects/RunOrGun.html)
+## [OneButtonQuest](https://multiname.github.io/GameDev-Portfolio/projects/OneButtonQuest.html)
 > Платформер-головоломка, где можно нажимать лишь одну кнопку
 
 <img src="static/OneButtonQuest-preview.gif" style="width:60%;">
