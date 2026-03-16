@@ -2,6 +2,7 @@
 ![](../static/ColorTower-preview.gif)
 > - **Жанр:** tower defense
 > - **Дата создания:** декабрь 2022
+> - **Навыки:** `Level Design` `Coroutines` `UI` `Adobe Illustrator` `Adobe Photoshop`
 
 <p align="center"><a href="https://cluttermultiname.itch.io/colortower" style="font-size: 200%;">Itch.io (web и ПК версии)</a></p>
 <p align="center"><a href="https://www.youtube.com/watch?v=Ls5JrlN60_Y" style="font-size: 200%;">Демонстрационное видео</a></p>
@@ -60,3 +61,6 @@
 <img src="../static/ColorTower-future-enemies.png" style="width:40%;">
 
 ## О разработке
+Работа над проектом происходила в рамках **курсовой работы** для бакалавриата, а сам проект в целом является одной из первых полноценно разработнных игр и пробой пера.
+
+Так как в качестве визуального стиля был выбран **векторный стиль**, работа над спрайтами проходила в **Adobe Illustrator**. **Анимацией** врагов занимался в **Adobe Photoshop**. Механики игры достаточно просты, поэтому в коде можно отметить лишь применение **асинхронности** в виде **корутин**.

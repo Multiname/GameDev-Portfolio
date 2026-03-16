@@ -6,17 +6,17 @@
 
 <br/>
 
-## [SpaceBattleAR](https://multiname.github.io/GameDev-Portfolio/projects/SpaceBattleAR.html)
-> Коллекционная карточная AR игра с полем из клеток
-
-<img src="static/SpaceBattleAR-preview.gif" style="width:25%;">
-
-<br/>
-
 ## [ColorTower](https://multiname.github.io/GameDev-Portfolio/projects/ColorTower.html)
 > Tower defense, где нужно объединять башни
 
 <img src="static/ColorTower-preview.gif" style="width:60%;">
+
+<br/>
+
+## [SpaceBattleAR](https://multiname.github.io/GameDev-Portfolio/projects/SpaceBattleAR.html)
+> Коллекционная карточная AR игра с полем из клеток
+
+<img src="static/SpaceBattleAR-preview.gif" style="width:25%;">
 
 <br/>
 
@@ -31,3 +31,13 @@
 > Платформер-головоломка, где можно нажимать лишь одну кнопку
 
 <img src="static/OneButtonQuest-preview.gif" style="width:60%;">
+
+<br/>
+<br/>
+
+### Проекты в порядке дат разработки
+1. Декабрь 2022 - [ColorTower](https://multiname.github.io/GameDev-Portfolio/projects/ColorTower.html)
+2. Март 2025 - [OneButtonQuest](https://multiname.github.io/GameDev-Portfolio/projects/OneButtonQuest.html)
+3. Май 2025 - [SpaceBattleAR](https://multiname.github.io/GameDev-Portfolio/projects/SpaceBattleAR.html)
+4. Декабрь 2025 - [TicTacToe3D](https://multiname.github.io/GameDev-Portfolio/projects/TicTacToe3D.html)
+5. Февраль 2026 - [RunOrGun](https://multiname.github.io/GameDev-Portfolio/projects/RunOrGun.html)
